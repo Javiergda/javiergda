@@ -1,8 +1,8 @@
 
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Javier and since 2021 I decided to turn my career around and return to the world of programming. Nowadays, I am a full stack web developer student.
-- 🔭 I’m currently working on my personal proyect of the bootcamp
+My name is Javier and in 2021 I decided to turn my career around and return to the world of programming. Nowadays, I am a full stack web developer student.
+- 🔭 I’m currently working on my personal project of the bootcamp
 
 
 ### 📫 How to reach me:

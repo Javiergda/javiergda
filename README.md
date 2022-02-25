@@ -7,7 +7,7 @@ My name is Javier and in 2021 I decided to turn my career around and return to t
 
 ### 📫 How to reach me:
 - Email : javiergda@gmail.com
-- Linkedin : www.linkedin.com/in/Javiergda
+- Linkedin : www.linkedin.com/in/javiergda
 
 
 ## 🔧 Technologies & Tools
